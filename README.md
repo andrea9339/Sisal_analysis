@@ -9,4 +9,4 @@ Riguarda tutti i processi di rifinitura e pulizia del dataset grezzo in preparaz
 Rappresenta tutto il processo di fitting e produzione del modello AI  basato su BERTopic per l'analisi dei topic
 
 ## brand analysis
-Analisi approdondita dei topic utillizando i risultati ottenuti con il modello precedentemente menzionato
+Analisi approdondita dei topic utilizzando i risultati ottenuti con il modello precedentemente menzionato
